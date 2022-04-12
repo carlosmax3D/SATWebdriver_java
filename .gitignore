@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# Personal files
+FACTURAS/
+facturas/
+
 # BlueJ files
 *.ctxt
 
